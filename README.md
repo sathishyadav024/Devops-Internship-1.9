@@ -60,6 +60,9 @@ Devops-Internship-1.9/
 ├── terraform.tfvars  # Values for variables in variables.tf, used for environment settings.
 ├── README.md         # Project documentation
 ```
+![Screenshot 2024-10-03 110929](https://github.com/user-attachments/assets/967cde4b-c51f-4e46-abb6-859fc7e51a3b)
+
+![Screenshot 2024-10-03 111019](https://github.com/user-attachments/assets/82f156ab-8849-4b77-964c-e27415a35499)
 
 ## `Technologies Used`
 
